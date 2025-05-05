@@ -22,7 +22,7 @@
 - **PyTorch** – Deep learning model development
 - **Torchvision** – Pre-trained models & transformations
 - **OpenCV / PIL** – Image loading and manipulation
-- **Matplotlib ** – Performance visualization
+- **Matplotlib** – Performance visualization
 - **Google Colab & PyCharm** – Development and training platforms
 
 ## 📂 Dataset & Preprocessing
