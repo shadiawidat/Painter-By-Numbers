@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-**Painter by Numbers** is a deep learning project that predicts whether two given paintings were created by the same artist. By leveraging **Siamese Neural Networks** with a pre-trained **ResNet-18**, the model learns to identify visual similarities and stylistic features unique to each artist. This approach is highly relevant in tasks involving verification, content-based image retrieval, and authorship classification.
+**Painter by Numbers** is a deep learning project that predicts whether two given paintings were created by the same artist. By leveraging **Siamese Neural Networks** with a pre-trained **ResNet-18**, the model learns to identify visual similarities and stylistic features unique to each artist. 
 
 ## 🚀 Key Features
 
